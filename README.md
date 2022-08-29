@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data (Numbers) 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anyone interested
-- 📫 How to reach me Emaai - impravinpk@gmail.com
+- 📫 How to reach me Email - impravinpk@gmail.com
 
 <!---
 IamPravinPK/IamPravinPK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
